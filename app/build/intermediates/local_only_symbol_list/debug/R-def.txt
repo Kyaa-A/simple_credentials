@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_delete
+id btn_retrieve
+id btn_save
+id btn_toDelete
+id btn_toRetrieve
+id btn_toUpdate
+id btn_update
+id txt_email
+id txt_id
+id txt_pword
+id txt_uname
+layout activity_delete
+layout activity_main
+layout activity_retrieve
+layout activity_update
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SimpleCredentials
+style Theme.SimpleCredentials
+xml backup_rules
+xml data_extraction_rules
